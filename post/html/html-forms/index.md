@@ -22,7 +22,7 @@ A form is created using the `form` tag:
 
 By default forms are submitted using the GET HTTP method. Which has its drawbacks, and usually you want to use POST.
 
-You can set the form to use POST when submitted by using the `method` attribute:
+You cab the form to use POST when submitted by using the `method` attribute:
 
 ```html
 <form method="POST">
